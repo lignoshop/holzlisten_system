@@ -1,7 +1,7 @@
 <?php
 class Database {
     private $host = "localhost";
-    private $db_name = "holzlisten_system";
+    private $db_name = "holzlistensystem";
     private $username = "user";
     private $password = "password";
     private $conn;
